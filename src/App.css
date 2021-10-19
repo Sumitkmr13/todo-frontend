@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  background-color:#14213D;
+}
+
+.grocery-items{
+  text-indent: 1rem;
+  background-color:black;
+}
+.item{
+  background-color:#FCA311;
+}
